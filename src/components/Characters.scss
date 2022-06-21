@@ -1,0 +1,20 @@
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    background-color: #42B5C9;
+    border-radius: 60px;
+    margin: 10px;
+    font-family: 'Creepster', cursive;
+    color: white;
+    font-size: large;
+    img{
+        border-radius: 300px;
+        width: 200px;
+        border: 2px solid white;
+
+    }
+}
